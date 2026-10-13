@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ferramentas da qualidade Quest: Escalada da Montanha copia 2",
+  "description": "Jogo interativo de ferramentas da qualidade com escalada da montanha (3 questões de 5S, 3 de Carta de Controle e 3 de Diagrama de Ishikawa), modo sala de aula em tempo real e painel do professor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
